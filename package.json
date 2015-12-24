@@ -1,0 +1,22 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "clear express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buzzpu/node_express.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "buzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buzzpu/node_express/issues"
+  },
+  "homepage": "https://github.com/buzzpu/node_express#readme"
+}
